@@ -4,7 +4,7 @@
 }
 
 body{
-	background: #000 url(bg.jpg);
+	background: #000 url(gambar.jpg);
 	background-attachment: fixed;
 	background-blend-mode: hard-light;
 	font-family: sans-serif;
@@ -16,7 +16,7 @@ body{
 	left: 100px;
 	right: 100px;
 	bottom: 80px;
-	background: url(bg.jpg);
+	background: url(gambar.jpg);
 	background-attachment: fixed;
 	display: flex;
 	justify-content: center;
