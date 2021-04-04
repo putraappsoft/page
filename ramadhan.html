@@ -15,7 +15,15 @@
 			<div id="detik">0</div>
 		</div>
 	</div>
-
+<script type='text/javascript'>
+if (typeof document.onselectstart!=&quot;undefined&quot;) {
+document.onselectstart=new Function (&quot;return false&quot;);
+}
+else{
+document.onmousedown=new Function (&quot;return false&quot;);
+document.onmouseup=new Function (&quot;return true&quot;);
+}
+</script>
 <script type="text/javascript">
 
 var countDate = new Date('Apr 12 2021 00:00:00').getTime();
