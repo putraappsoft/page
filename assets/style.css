@@ -325,3 +325,10 @@ html[dir=rtl] .app__logo-wrapper {
   background-position-y: -10vh !important;
   background-repeat: no-repeat !important;
 }
+
+.telpfixed {
+    position: fixed;
+    right: 30px;
+    bottom: 30px;
+    z-index: 999;
+}
