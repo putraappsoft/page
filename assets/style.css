@@ -331,8 +331,8 @@ html[dir=rtl] .app__logo-wrapper {
 
 .float{
 	position:fixed;
-	width:100px;
-	height:100px;
+	width:60px;
+	height:60px;
 	bottom:40px;
 	right:40px;
 	background-color:#0C9;
@@ -343,5 +343,5 @@ html[dir=rtl] .app__logo-wrapper {
 }
 
 .my-float{
-	margin-top:22px;
+	margin-top:40px;
 }
