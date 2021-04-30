@@ -331,8 +331,8 @@ html[dir=rtl] .app__logo-wrapper {
 
 .float{
 	position:fixed;
-	width:60px;
-	height:60px;
+	width:100px;
+	height:100px;
 	bottom:40px;
 	right:40px;
 	background-color:#0C9;
