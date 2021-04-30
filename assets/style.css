@@ -336,10 +336,10 @@ html[dir=rtl] .app__logo-wrapper {
 	bottom:40px;
 	right:40px;
 	background-color:#0C9;
-	color:#FFFFFF;
+	color:#FFF;
 	border-radius:50px;
 	text-align:center;
-	box-shadow: 2px 2px 3px #FFFFFF;
+	box-shadow: 2px 2px 3px #999;
 }
 
 .my-float{
